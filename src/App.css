@@ -2,9 +2,14 @@
   text-align: center;
 }
 
+body {
+  background-color: snow;
+}
+
 .App-logo {
-  height: 40vmin;
+  height: 9vmin;
   pointer-events: none;
+  align-items: center;
 }
 
 @media (prefers-reduced-motion: no-preference) {
